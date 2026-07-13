@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 131-38",
+  "title": "AN ACT TO AUTHORIZE THE CHAMORRO LAND TRUST TO SELL A PORTION OF LOT 5174-REM-1 MUNICIPALITY OF TAMUNING CONSISTING OF AN AREA OF 1485\u00b1 SQ.FT. (138\u00b1 SQ.M.) AND TO DEPOSIT THE PROCEEDS OF THE SALE INTO THE CHAMORRO LAND TRUST INFRASTRUCTURE AND SURVEY FUND.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b13138"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "V. Anthony Ada",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 131-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 131-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

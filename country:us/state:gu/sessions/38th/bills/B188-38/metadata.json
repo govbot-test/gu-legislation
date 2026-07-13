@@ -1,0 +1,84 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 188-38",
+  "title": "AN ACT TO APPROPRIATE THE SUM OF NINETEEN MILLION SEVEN HUNDRED FORTY-FIVE THOUSAND SEVEN HUNDRED FOURTEEN DOLLARS ($19,745,714) FROM THE DEBT SERVICE SAVINGS RESULTING FROM THE GOVERNMENT OF GUAM BUSINESS PRIVILEGE TAX REFUNDING BONDS, SERIES 2025G, WHICH REDEEM THE SERIES 2015D BONDS, TO THE GUAM MEMORIAL HOSPITAL AUTHORITY FOR CRITICAL CAPITAL IMPROVEMENTS AND OPERATIONAL COSTS.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b18838"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Telo T. Taitague",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabina Flores Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabina Flores Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Barnett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Chris Barnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly V. Calvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Shelly V. Calvo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 188-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 188-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

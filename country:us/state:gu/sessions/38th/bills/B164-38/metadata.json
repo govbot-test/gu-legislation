@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 164-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW ARTICLE 2A TO CHAPTER 61 OF TITLE 21, GUAM CODE ANNOTATED, RELATIVE TO STREAMLINING THE ZONING LAW FOR AFFORDABLE HOUSING.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b16438"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe S. San Agustin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Joe S. San Agustin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William A. Parkinson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"William A. Parkinson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 164-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 164-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

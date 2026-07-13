@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 183-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0SECTION 2(b) OF PUBLIC LAW 34-112, AS AMENDED, RELATIVE TO SUPPORTING THE GUAM CUSTOMS AND QUARANTINE AGENCY\u2019S ONGOING EFFORTS TO DEVELOP THE CUSTOMS SATELLITE INSPECTION, HOLDING, AND SECURED STERILE FACILITY.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b18338"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 183-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 183-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

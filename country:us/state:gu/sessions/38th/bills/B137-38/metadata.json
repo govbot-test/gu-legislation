@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 137-38",
+  "title": "AN ACT TO ADD A NEW \u00a7 25.50 TO CHAPTER 25, AND A NEW \u00a7 19.82 TO CHAPTER 19, BOTH OF TITLE 9, GUAM CODE ANNOTATED, RELATIVE TO THE DEFINITION AND INCLUSION OF INTERFERING WITH THE REPORTING OF CRIMINAL SEXUAL CONDUCT OFFENSES.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b13738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "V. Anthony Ada",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 137-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 137-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

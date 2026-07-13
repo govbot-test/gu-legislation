@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 233-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW \u00a7 40114.1 TO ARTICLE 1 OF CHAPTER 40, TITLE 5, GUAM CODE ANNOTATED, RELATIVE TO ASSIGNING A PORTION OF LOT NO. 87-5-R2 IN HAG\u00c5T\u00d1A, TO THE HAG\u00c5T\u00d1A MAYOR\u2019S OFFICE FOR THE DEVELOPMENT OF COMMUNITY SPORTS AND RECREATION FACILITIES, AND TO FURTHER AUTHORIZING THAT OFFICE TO ENTER INTO A MEMORANDUM OF AGREEMENT WITH THE GUAM FOOTBALL ASSOCIATION FOR THE CONSTRUCTION AND MANAGEMENT OF A FOOTBALL PITCH AND RELATED FACILITIES ON A PORTION OF THE PROPERTY IDENTIFIED HEREIN.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b23338"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 233-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 233-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

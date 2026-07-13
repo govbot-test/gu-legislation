@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 236-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW ARTICLE 6, CHAPTER 7, TITLE 9, GUAM CODE ANNOTATED; RELATIVE TO ABOLISHING THE \u201cROUGH SEX\u201d DEFENSE IN CASES OF SERIOUS INJURY OR DEATH AND TO BE CITED AS THE \u201cKRYSTAL MITCHELL LAW\u201d.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b23638"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vincent A. V. Borja",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Vincent A. V. Borja\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly V. Calvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Shelly V. Calvo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 236-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 236-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

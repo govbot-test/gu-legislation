@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 259-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW CHAPTER 54 TO DIVISION 2, TITLE 11, GUAM CODE ANNOTATED; RELATIVE TO ESTABLISHING A TAX CREDIT FOR CONTRIBUTIONS TO NON-PROFIT AND FAITH-BASED ORGANIZATIONS PROVIDING MARRIAGE AND FAMILY COUNSELING SERVICES BY LICENSED PROVIDERS; AND TO PROMOTE FAMILY STABILITY AND COMMUNITY WELL-BEING.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b25938"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabrina Salas Matanane",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabrina Salas Matanane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly V. Calvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Shelly V. Calvo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 259-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 259-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

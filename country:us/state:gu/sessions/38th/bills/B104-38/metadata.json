@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 104-38",
+  "title": "AN ACT TO AMEND \u00a7\u00a7 45.10(C) AND 80.60; AND TO ADD \u00a7\u00a7 40.20(H) AND (I), 45.10(D), 100.40 AND 160.96 TO TITLE 8; TO REPEAL AND REENACT \u00a7\u00a7 30104.1 AND 30118.1, AND TO ADD \u00a7\u00a7 30104.2 AND 30104.3 TO TITLE 5, AND TO ADD \u00a7 10107(S) TO TITLE 12, ALL OF THE GUAM CODE ANNOTATED, RELATIVE TO ENACTING THE \u201cCRIME VICTIM & PEOPLE OF GUAM\u2019S PROTECTION REFORM ACT OF 2025.\u201d",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b10438"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Telo T. Taitague",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 104-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 104-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 267-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a75150 OF SUBARTICLE F, ARTICLE 2, CHAPTER 5, DIVISION 1, TITLE 5, GUAM CODE ANNOTATED, RELATIVE TO UPDATING THE DUTIES OF THE ATTORNEY GENERAL BY INCREASING THE THRESHOLD FOR PROCUREMENT OVERSIGHT AND ADVISEMENT FOR AN AMOUNT OF EIGHT HUNDRED THOUSAND (800,000) TO ONE MILLION FIVE HUNDRED THOUSAND DOLLARS ($1,500,000) OR MORE.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b26738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Sabina Flores Perez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabina Flores Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe S. San Agustin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Joe S. San Agustin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V. Anthony Ada",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 267-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 267-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

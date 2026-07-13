@@ -1,0 +1,48 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 178-38",
+  "title": "AN ACT TO ADD A\u00a0 NEW \u00a71115 TO CHAPTER 1, TITLE 11, GUAM CODE ANNOTATED RELATIVE TO REQUIRING THE DEPARTMENT OF REVENUE AND TAXATION TO ISSUE A REQUEST FOR PROPOSAL (RFP) FOR A PILOT ROBOTIC PROCESS AUTOMATION\u00a0 PROGRAM.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b17838"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

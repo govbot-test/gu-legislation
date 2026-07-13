@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 187-38",
+  "title": "AN ACT TO APPROPRIATE THE SUM OF THIRTY-TWO MILLION DOLLARS ($32,000,000) FROM THE GENERAL FUND REALIZED FROM BOND REFUNDING SAVINGS NOT FACTORED INTO THE FISCAL YEAR 2026 BUDGET FOR CAPITAL IMPROVEMENT PROJECTS AND LIFE SAVING SUPPLIES AND MATERIALS AT THE GUAM MEMORIAL HOSPITAL AUTHORITY AND OTHER HEALTH-RELATED FACILITIES.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b18738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Sabrina Salas Matanane",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabrina Salas Matanane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher M. Due\u00f1as",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Christopher M. Due\\u00f1as\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jesse A. Lujan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Jesse A. Lujan\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 187-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 187-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

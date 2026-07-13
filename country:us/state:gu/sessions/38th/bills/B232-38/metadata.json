@@ -1,0 +1,124 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 232-38",
+  "title": "AN ACT\u00a0AMEND\u00a0\u00a7\u00a7 1.10, 1.14, 1.16, 1.18, 1.19, 1.20, 1.22, 1.24, 1.26, 1.30 AND 1.60 OF CHAPTER 1, TO\u00a0REPEAL\u00a0AND\u00a0\u00a0REENACT\u00a0\u00a7\u00a7 1.12, 1.34, 1.36, 1.38, 1.42, 1.44, 1.46, 1.48 OF CHAPTER 1 AND TO\u00a0REPEAL\u00a0\u00a7 1.80 OF CHAPTER 1; TO\u00a0AMEND\u00a0\u00a7\u00a7 4.45, 4.50, 4.70 AND 4.75 OF CHAPTER 4; TO\u00a0AMEND\u00a0\u00a7\u00a7 16.30, 16.40 AND 16.50 OF CHAPTER 16; TO\u00a0AMEND\u00a0\u00a7\u00a7 19.50, 19.70 AND 19.81 OF CHAPTER 19; TO\u00a0AMEND\u00a0\u00a7 25.10 OF CHAPTER 25; TO\u00a0AMEND\u00a0\u00a7\u00a7 25A102, 25A103, 25A104, 25A105 AND TO\u00a0ADD\u00a0A NEW \u00a7 25A106 OF CHAPTER 25A; TO\u00a0AMEND\u00a0\u00a7\u00a7 31.30 AND 31.70, TO\u00a0REPEAL\u00a0\u00a7\u00a7 31.35, 31.37, 31.60 AND 31.65 OF CHAPTER 31; TO\u00a0AMEND\u00a0\u00a7\u00a7 34.50, 34.60 AND 34.70 OF CHAPTER 34; TO\u00a0AMEND\u00a0\u00a7 37.20 AND TO\u00a0REPEAL\u00a037.40 OF CHAPTER 37; TO\u00a0AMEND\u00a0\u00a7\u00a7 43.20 AND 43.31 OF CHAPTER 43; TO\u00a0AMEND\u00a0\u00a7\u00a7 46.30, 46.35, 46.80, 46.102, 46.103 AND 46.504 AND TO\u00a0REPEAL\u00a0\u00a7\u00a7 46.50 AND 46.104 OF CHAPTER 46; TO\u00a0AMEND\u00a0\u00a7\u00a7 52.10, 52.30, 52.55 AND 52.60 OF CHAPTER 52; TO\u00a0AMEND\u00a0\u00a7\u00a7 55.10, 55.15, 55.20, 55.25, 55.30, 55.35, 55.40, 55.50 AND 55.60 OF CHAPTER 55; TO\u00a0AMEND\u00a0\u00a7\u00a7 70.15, 70.20, 70.25, 70.35, 70.50, 70.60(a), 70.65(g), 70.80(b), 70.320(d), 70.330(c) AND 70.420, TO\u00a0REPEAL\u00a0\u00a7\u00a7 70.55, AND 70.430 OF CHAPTER 70; TO\u00a0AMEND\u00a0CHAPTER 71; TO\u00a0REPEAL\u00a0CHAPTERS 86 AND 87; TO\u00a0AMEND\u00a0\u00a7\u00a7 90.10, 90.15, 90.16, 90.25, 90.27, 90.30, 90.35, 90.40, 90.41, 90.42, 90.43, 90.44, 90.45, 90.47, 90.48, 90.49, 90.51, 90.54, 90.90 AND 90.91, TO\u00a0ADD\u00a0A NEW \u00a7 90.26, TO\u00a0REPEAL\u00a0\u00a7\u00a7 90.20, 90.80, 90.82 AND 90.84 OF CHAPTER 90 ALL OF TITLE 9 GUAM CODE ANNOTATED; TO\u00a0ADD\u00a0A NEW ARTICLE 3, CHAPTER 20 OF TITLE 19 GUAM CODE ANNOTATED; AND TO\u00a0AMEND\u00a0\u00a760109, \u00a760110, CHAPTER 60 OF TITLE 10 GUAM CODE ANNOTATED AS RECOMMENDED BY THE GUAM CRIMINAL LAW AND PROCEDURE REVIEW COMMISSION RELATIVE TO THE COMMISSION\u2019S MANDATE TO RECOMMEND ENACTMENTS, AMENDMENTS AND REPEALS TO GUAM\u2019S CRIMINAL LAWS AND PROCEDURES TO\u00a0I LIHESLATURAN GU\u00c5HAN.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b23238"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Telo T. Taitague",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vincent A. V. Borja",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Vincent A. V. Borja\"}",
+      "organization_id": null
+    },
+    {
+      "name": "William A. Parkinson",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"William A. Parkinson\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Shelly V. Calvo",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Shelly V. Calvo\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V. Anthony Ada",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Barnett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Chris Barnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 232-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 232-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

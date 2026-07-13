@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 241-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0P.L. 38-60 RELATIVE TO EXPEDITING THE RELEASE OF THE TWENTY MILLION DOLLARS ($20,000,000) APPROPRIATED FOR THE GUAM MEMORIAL HOSPITAL FOR OPERATIONS IN FISCAL YEAR 2026.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b24138"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Therese M. Terlaje",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Therese M. Terlaje\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 241-38 (LS)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 241-38 (LS).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

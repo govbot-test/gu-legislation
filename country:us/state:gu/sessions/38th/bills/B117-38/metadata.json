@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 117-38",
+  "title": "AN ACT TO DEAPPROPRIATE TWENTY-FIVE THOUSAND DOLLARS ($25,000.00) FROM THE FUNDS OF THE OFFICE OF SENATOR TELO T. TAITAGUE TO REAPPROPRIATE SAID SUMS TO THE GUAHAN PAWS FOR PETS, A NON-PROFIT ORGANIZATION THAT PROVIDES FOSTERING AND ADOPTION SERVICES FOR ANIMALS UNDER ITS CARE.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b11738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Telo T. Taitague",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 117-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 117-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

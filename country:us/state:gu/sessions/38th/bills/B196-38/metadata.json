@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 196-38",
+  "title": "AN ACT TO APPROPRIATE FROM THE GENERAL FUND UNAPPROPRIATED BALANCE AS OF SEPTEMBER 30, 2025 TWO MILLION NINE HUNDRED TWELVE THOUSAND EIGHTY-SIX DOLLARS ($2,912,086) TO GBHWC FOR THE INTENSIVE PSYCHIATRIC TREATMENT STABILIZATION 24-HOUR THERAPEUTIC GROUP HOME FOR CHILDREN AND ADOLESCENTS WITH SERIOUS EMOTIONAL DISTURBANCE AND NINE HUNDRED FORTY-SEVEN THOUSAND TWO HUNDRED FORTY-NINE DOLLARS ($947,249) TO DOA FOR RESIDENTIAL TREATMENT FUND.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b19638"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 196-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 196-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

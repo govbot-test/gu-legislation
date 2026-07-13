@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 272-38",
+  "title": "AN ACT TO APPROPRIATE THE SUM OF TWENTY MILLION DOLLARS ($20,000,000) FROM THE FISCAL YEAR 2025 EXCESS REVENUES COLLECTED ABOVE THE LEVELS ADOPTED IN PUBLIC LAW 125-37 TO THE GUAM DEPARTMENT OF PUBLIC HEALTH AND SOCIAL SERVICES FOR THE REFURBISHMENT OF THE FORMER PUBLIC HEALTH MANGILAO FACILITY.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b27238"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Therese M. Terlaje",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Therese M. Terlaje\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 272-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 272-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

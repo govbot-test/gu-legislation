@@ -1,0 +1,84 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 140-38",
+  "title": "AN ACT TO ADD A NEW \u00a7 90.16.2 TO ARTICLE 1 OF CHAPTER 90, TITLE 9, GUAM CODE ANNOTATED, RELATIVE TO SALARY, RECRUITMENT AND RETENTION STUDIES FOR LAW ENFORCEMENT OFFICERS EMPLOYED BY THE GUAM DEPARTMENT OF CORRECTIONS; TO BE KNOWN AS THE \u201cFAIR COMPENSATION AND RETENTION FOR CORRECTIONAL OFFICERS ACT OF 2025.\u201d",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b14038"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Chris Barnett",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Chris Barnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabina Flores Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabina Flores Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Telo T. Taitague",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 140-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 140-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

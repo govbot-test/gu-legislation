@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 277-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a7 12901 AND ADD A NEW \u00a7\u00a7 12907 AND 12908 ALL OF ARTICLE 9 CHAPTER 12, TITLE 10, GUAM CODE ANNOTATED, RELATIVE TO AUTHORIZING AND REGULATING ACUPUNCTURE AND ORIENTAL MEDICINE ASSISTANTS.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b27738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 277-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 277-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

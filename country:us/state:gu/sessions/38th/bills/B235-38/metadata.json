@@ -1,0 +1,100 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 235-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0SECTION 8 OF CHAPTER I OF PUBLIC LAW 38-60, RELATIVE TO PRE-DEVELOPMENT STAGE DUTIES IN THE SIMON A. SANCHEZ HIGH SCHOOL PROJECT.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b23538"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Christopher M. Due\u00f1as",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Christopher M. Due\\u00f1as\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Vincent A. V. Borja",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Vincent A. V. Borja\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Jesse A. Lujan",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Jesse A. Lujan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Rose Mu\u00f1a Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a Barnes\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe S. San Agustin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Joe S. San Agustin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V. Anthony Ada",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 235-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 235-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

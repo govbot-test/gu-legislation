@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 184-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a7 14.101, TO\u00a0ADD\u00a0A NEW \u00a7 14.104.2(f), AND TO\u00a0AMEND\u00a0\u00a7 14.105, ALL OF ARTICLE 14.1, CHAPTER 1, TITLE 5, GUAM CODE, ANNOTATED, RELATIVE TO STRENGTHENING HOMELAND SECURITY SERVICES FOR THE PEOPLE OF GUAM BY REQUIRING MERIT-BASED GRANTS MANAGEMENT AND FUSION CENTER DIRECTOR POSITIONS, AND REQUIRING THE SUBMISSION OF PROJECT PERFORMANCE, COMPLIANCE, AND FINANCIAL REPORTS.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b18438"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 184-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 184-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

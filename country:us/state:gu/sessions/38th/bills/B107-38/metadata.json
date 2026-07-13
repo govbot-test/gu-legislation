@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 107-38",
+  "title": "AN ACT TO ADD A NEW ARTICLE 5 TO CHAPTER 4, TITLE 19 OF THE GUAM CODE ANNOTATED AND TO RECODIFY 18 GCA \u00a790113 AS A NEW \u00a74502 THEREOF, RELATIVE TO ESTABLISHING CRIMINAL LIABILITY FOR FAILURE OF A PARENT OR LEGAL GUARDIAN TO EXERCISE REASONABLE CARE, SUPERVISION, PROTECTION, AND CONTROL OVER THEIR MINOR CHILD WHEN SUCH ACT OR OMISSION PERMITS OR ENCOURAGES THE MINOR CHILD TO COMMIT A FELONY OR MISDEMEANOR CRIME.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b10738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "William A. Parkinson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"William A. Parkinson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 107-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 107-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

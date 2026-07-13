@@ -1,0 +1,48 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 179-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0CHAPTER 65 OF TITLE 10, TO\u00a0AMEND\u00a0\u00a7 14.107 OF ARTICLE 14.1, CHAPTER 1, TITLE 5, AND TO\u00a0AMEND\u00a0\u00a7 22402 OF ARTICLE 4, CHAPTER 22, TITLE 5, ALL OF THE GUAM CODE ANNOTATED, RELATIVE TO ABOLISHING THE OFFICE OF CIVIL DEFENSE AND STRENGTHENING THE ADMINISTRATION OF EMERGENCY MANAGEMENT FUNCTIONS BY CREATING THE BUREAU OF EMERGENCY MANAGEMENT WITHIN THE GUAM FIRE DEPARTMENT AND ASSIGNING RESPONSIBILITIES THERETO.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b17938"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 169-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0AND\u00a0RENUMBER\u00a0ARTICLE 8 OF CHAPTER 3, TITLE 10 GUAM CODE ANNOTATED TO A NEW CHAPTER 98 TO TITLE 10 GUAM CODE ANNOTATED RELATIVE TO ESTABLISHING GUAM COMMUNITY HEALTH CENTERS AS AN AUTONOMOUS AGENCY.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b16938"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Therese M. Terlaje",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Therese M. Terlaje\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabrina Salas Matanane",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabrina Salas Matanane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabina Flores Perez",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabina Flores Perez\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Chris Barnett",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Chris Barnett\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Telo T. Taitague",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Joe S. San Agustin",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Joe S. San Agustin\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 169-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 169-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 146-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW \u00a7 5117.3 TO CHAPTER 5, TITLE 5, GUAM CODE ANNOTATED RELATIVE TO GRANTING THE EXECUTIVE DIRECTOR OF THE MAYORS COUNCIL OF GUAM PROCUREMENT AUTHORITY FOR PROCUREMENT GOODS AND SERVICES THAT DO NOT EXCEED A VALUE OF FIVE HUNDRED THOUSAND DOLLARS ($500,000).",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b14638"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "V. Anthony Ada",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher M. Due\u00f1as",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Christopher M. Due\\u00f1as\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 146-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 146-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

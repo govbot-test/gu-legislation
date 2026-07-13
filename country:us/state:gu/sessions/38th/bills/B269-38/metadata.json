@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 269-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0SECTION 1(aa)(3) OF CHAPTER V (EXECUTIVE BRANCH), PUBLIC LAW 38-60, RELATIVE TO AUTHORIZING THE GUAM FIRE DEPARTMENT TO EXPEND FOUR HUNDRED FIFTY THOUSAND DOLLARS ($450,000) FROM THE DEPARTMENT\u2019S UNEXPENDED APPROPRIATED FUNDS FROM PRIOR FISCAL YEARS FOR A \u201c911 SURCHARGE\u201d RATE STUDY PURSUANT TO 12 GCA CHAPTER 12.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b26938"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Sabrina Salas Matanane",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabrina Salas Matanane\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 269-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 269-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 172-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW \u00a7 8107.2 TO CHAPTER 8, TITLE 5, GUAM CODE ANNOTATED; RELATIVE TO REQUIRING THE DEPARTMENT OF PUBLIC WORKS PUBLISH AND MAINTAIN A RECORD OF ANTICIPATED, ON-GOING, ON-HOLD, AND COMPLETED PROJECTS ON ITS WEBSITE, PURSUANT TO OPEN GOVERNMENT REQUIREMENTS.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b17238"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 172-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 172-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

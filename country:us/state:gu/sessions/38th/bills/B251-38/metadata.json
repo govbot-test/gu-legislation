@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 251-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a731101. OF CHAPTER 31, DIVISION 4, TITLE 17, GUAM CODE ANNOTATED, RELATIVE TO THE GUAM COMMUNITY COLLEGE BOARD OF TRUSTEES COMPOSITION TO ENHANCE BUSINESS AND INDUSTRY REPRESENTATION.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b25138"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Vincent A. V. Borja",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Vincent A. V. Borja\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 251-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 251-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 165-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0SUBSECTION (d) OF \u00a7 3101 OF ARTICLE 1, CHAPTER 3, TITLE 16, GUAM CODE ANNOTATED, RELATIVE TO EXTENDING THE PERIOD DURING WHICH HOLDERS OF VALID U.S. DRIVER\u2019S LICENSES MAY OPERATE MOTOR VEHICLES IN GUAM.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b16538"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Shelly V. Calvo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Shelly V. Calvo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 165-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 165-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

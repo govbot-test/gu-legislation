@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 242-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a7\u00a7 2102, 2104, 2105, 2110, AND 2111 OF CHAPTER 21, TITLE 1, GUAM CODE ANNOTATED, RELATIVE TO REMOVING ANCESTRY-BASED VOTER RESTRICTIONS IN GUAM\u2019S POLITICAL STATUS PLEBISCITE AND ENSURING COMPLIANCE WITH THE FIFTEENTH AMENDMENT TO THE UNITED STATES CONSTITUTION.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b24238"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "William A. Parkinson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"William A. Parkinson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 242-38 (LS)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 242-38 (LS).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

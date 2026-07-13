@@ -1,0 +1,76 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 109-38",
+  "title": "AN ACT TO AUTHORIZE THE PORT AUTHORITY OF GUAM TO GRANT A DOLLAR-FOR-DOLLAR OFFSET AGAINST LEASE PAYMENTS FOR TENANTS WHO INVEST IN TANGIBLE, DOCUMENTED IMPROVEMENTS TO PORT PROPERTY THAT PROVIDE HIGH VALUE TO THE COMMUNITY OR ENHANCE PORT OPERATIONS; AND TO ESTABLISH A STREAMLINED PROCESS FOR IMPLEMENTATION.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b10938"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Jesse A. Lujan",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Jesse A. Lujan\"}",
+      "organization_id": null
+    },
+    {
+      "name": "Christopher M. Due\u00f1as",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Christopher M. Due\\u00f1as\"}",
+      "organization_id": null
+    },
+    {
+      "name": "V. Anthony Ada",
+      "classification": "cosponsor",
+      "entity_type": "person",
+      "primary": false,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"V. Anthony Ada\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 109-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 109-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

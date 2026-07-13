@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 148-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW ARTICLE 5 TO DIVISION 3, CHAPTER 37, TITLE 5, GUAM CODE ANNOTATED; RELATIVE TO THE PROTECTION OF PUBLIC EMPLOYEES AND TO BE TITLED AS \u201cTHE PUBLIC EMPLOYEE GRIEVANCE PROTECTION AND DEPARTMENT/AGENCY HEAD RECUSAL\u201d UNDER THE FALSE CLAIMS AND WHISTLEBLOWER ACT.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b14838"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 148-38 (LS)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 148-38 (LS).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

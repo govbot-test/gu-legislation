@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 206-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW \u00a7 12202 (c),\u00a0AMEND\u00a0\u00a7 12205 (c), \u00a7 12206 AND\u00a0ADD\u00a0A NEW 12206.1 AND \u00a7 12207 (a) (5) TO ARTICLE 2, CHAPTER 12, TITLE 10, GUAM CODE ANNOTATED, RELATIVE TO BUILDING A MORE DIVERSE AND SUSTAINABLE HEALTHCARE WORKFORCE ON GUAM BY EXPANDING LICENSURE PATHWAYS FOR FOREIGN MEDICAL GRADUATES AND ESTABLISHING A LOCAL CONRAD 30 J-1 PHYSICIAN WAIVER PROGRAM.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b20638"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Telo T. Taitague",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Telo T. Taitague\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 206-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 206-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

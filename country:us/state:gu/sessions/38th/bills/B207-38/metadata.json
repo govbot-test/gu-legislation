@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 207-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a7 75A107(a);\u00a0ADD\u00a0NEW \u00a7 75A123(c); AND\u00a0AMEND\u00a0\u00a7 75A124; ALL OF CHAPTER 75A, TITLE 21, GUAM CODE ANNOTATED, RELATIVE TO AUTHORIZING THE CHAMORRO LAND TRUST COMMISSION TO LEASE PARCELS WITH UNDIVIDED INTEREST TO PROVIDE AFFORDABLE HOUSING OPTIONS TO THE BENEFICIARIES.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b20738"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Sabina Flores Perez",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Sabina Flores Perez\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 207-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 207-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

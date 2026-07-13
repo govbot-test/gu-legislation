@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 103-38",
+  "title": "AN ACT TO AMEND AND RE-NUMBER \u00a7 51102(h)(11) OF CHAPTER 51, TITLE 17, TO AMEND \u00a7 51103(b)(4) OF CHAPTER 51, TITLE 17, AND TO AMEND \u00a7 7120 OF CHAPTER 7, TITLE 22, ALL OF THE GUAM CODE ANNOTATED, RELATIVE TO AUTHORIZING THE TEMPORARY CERTIFICATION OF PEACE OFFICERS AND TO AUTHORIZING THE MANPOWER DEVELOPMENT FUND FOR CERTIFICATION COURSES REQUIRED BY THE PEACE OFFICER STANDARDS AND TRAINING COMMISSION.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b10338"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Eulogio Shawn Gumataotao",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Eulogio Shawn Gumataotao\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 103-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 103-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

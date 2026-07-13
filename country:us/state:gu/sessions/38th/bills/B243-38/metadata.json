@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 243-38",
+  "title": "AN ACT TO\u00a0AMEND\u00a0\u00a7 5425(g) OF ARTICLE 9, CHAPTER 5, TITLE 5, GUAM CODE ANNOTATED; AND TO ADD A NEW \u00a7 5425.1 TO ARTICLE 9, CHAPTER 5, TITLE 5, GUAM CODE ANNOTATED, RELATIVE TO REMOVING THE AUTOMATIC STAY OF PROCUREMENT UPON THE FILING OF A PROTEST AND REQUIRING AN AFFIRMATIVE DETERMINATION OR ORDER TO STAY AN AWARD, TO MODERNIZE GUAM\u2019S PROCUREMENT REGIME.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b24338"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "William A. Parkinson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"William A. Parkinson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 243-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 243-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

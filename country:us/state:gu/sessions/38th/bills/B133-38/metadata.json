@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 133-38",
+  "title": "AN ACT TO\u00a0ADD\u00a0A NEW \u00a7\u00a7 66215, 66216, AND 66217 TO ARTICLE 2, CHAPTER 66, TITLE 21 OF THE GUAM CODE ANNOTATED, RELATIVE TO AUTHORIZING THE USE OF THIRD-PARTY ASSISTANCE IN PERMIT APPLICATION REVIEWS, TO ESTABLISH CONDITIONAL APPROVAL FOR PERMIT APPLICATIONS AND TO CITE THIS ACT AS THE \u201cPERMIT APPLICATIONS REVIEW AND CONDITIONAL APPROVAL ACT OF 2025.\u201d",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b13338"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Frank F. Blas, Jr.",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Frank F. Blas, Jr.\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 133-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 133-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

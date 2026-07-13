@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 102-38",
+  "title": "AN ACT TO ESTABLISH THE GUAM TARIFF ADVANTAGE DEVELOPMENT ACT (\u201cGTADA\u201d), UTILIZING GUAM\u2019S UNIQUE TARIFF-EXEMPT STATUS TO INCENTIVIZE ECONOMIC DIVERSIFICATION, ENHANCE MANUFACTURING OPPORTUNITIES, ATTRACT FOREIGN DIRECT INVESTMENT, AND SUPPORT JOB CREATION; TO AMEND TITLE 11 AND TITLE 12 OF THE GUAM CODE ANNOTATED TO ESTABLISH PROCEDURES, INCENTIVES, AND ADMINISTRATIVE STRUCTURES NECESSARY THERETO, AND PROVIDE FOR EFFECTIVE IMPLEMENTATION AND OVERSIGHT.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b10238"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "William A. Parkinson",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"William A. Parkinson\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 102-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 102-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 219-38",
+  "title": "AN ACT TO\u00a0\u00a0AMEND\u00a0 SUBSECTION\u00a0 (K)\u00a0 OF \u00a782A201 OF ARTICLE 2; TO\u00a0ADD\u00a0NEW \u00a7 82A402, \u00a7\u00a0 82A403, AND \u00a7 82A404 TO ARTICLE 4; AND TO\u00a0AMEND\u00a0\u00a7 82A501 OF ARTICLE 5; ALL OF CHAPTER 82A, TITLE 10, GUAM CODE ANNOTATED, RELATIVE TO EXPANDING PETITIONING AUTHORITY FOR ASSISTED OUTPATIENT TREATMENT UNDER THE BABY ALEXYA LAW; AND TO CITE THIS ACT AS THE \u201cBABY ALEXYA LAW REFORM ACT OF 2025.",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b21938"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Shelly V. Calvo",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Shelly V. Calvo\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 219-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 219-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page3/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}

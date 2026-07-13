@@ -1,0 +1,60 @@
+{
+  "legislative_session": "38th",
+  "identifier": "B 193-38",
+  "title": "AN ACT TO APPROPRIATE FOUR MILLION SIX HUNDRED FIFTY-SIX THOUSAND FIVE HUNDRED SIXTY-EIGHT DOLLARS ($4,656,568) FROM THE GENERAL FUND UNAPPROPRIATED BALANCE AS OF SEPTEMBER 30, 2025 TO THE WORKER\u2019S COMPENSATION FUND FOR THE WORKERS COMPENSATION COMMISSION TO PAY UNPAID CLAIMS AND/OR VENDOR PAYMENTS FOR FY2024 AND FY2025 AND APPROPRIATE ADDITIONAL FUNDING FOR FY2026",
+  "from_organization": "~{\"classification\": \"legislature\"}",
+  "classification": [
+    "bill"
+  ],
+  "subject": [],
+  "abstracts": [],
+  "other_titles": [],
+  "other_identifiers": [
+    {
+      "identifier": "ocd-bill-gu-38th-b19338"
+    }
+  ],
+  "actions": [],
+  "sponsorships": [
+    {
+      "name": "Tina Rose Mu\u00f1a-Barnes",
+      "classification": "primary",
+      "entity_type": "person",
+      "primary": true,
+      "person_id": "~{\"chamber\": \"legislature\", \"name\": \"Tina Rose Mu\\u00f1a-Barnes\"}",
+      "organization_id": null
+    }
+  ],
+  "related_bills": [],
+  "versions": [
+    {
+      "note": "Bill No. 193-38 (COR)",
+      "links": [
+        {
+          "url": "http://guamlegislature.gov/38th_Guam_Legislature/Bill_History_38th/STATUS Bill No. 193-38 (COR).pdf",
+          "media_type": "application/pdf"
+        }
+      ],
+      "date": "",
+      "classification": ""
+    }
+  ],
+  "documents": [],
+  "citations": [],
+  "sources": [
+    {
+      "url": "https://guamlegislature.gov/bills-page2/",
+      "note": ""
+    }
+  ],
+  "extras": {},
+  "jurisdiction": {
+    "id": "ocd-jurisdiction/country:us/territory:gu/government",
+    "name": "Guam",
+    "classification": "state",
+    "division_id": "ocd-division/country:us/territory:gu"
+  },
+  "_processing": {
+    "logs_latest_update": "2026-07-13T06:02:40Z"
+  }
+}
